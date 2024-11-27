@@ -1,5 +1,5 @@
- I’m @XLegacy9
- front-end developer for Websites
+ I’m @XLegacy9, 
+ A front-end developer for Websites &
  learning back-end.
 
 <!---
