@@ -1,4 +1,4 @@
- I’m @XLegacy9, 
+ I’m XLegacy9, 
  A front-end developer for Websites &
  learning back-end.
 
