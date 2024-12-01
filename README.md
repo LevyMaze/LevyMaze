@@ -1,6 +1,4 @@
- I’m XLegacy9, 
- A front-end developer for Websites &
- learning back-end.
+Sup
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
