@@ -1,4 +1,4 @@
-Sup
+howdy
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
