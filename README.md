@@ -41,7 +41,7 @@ A responsive typing test application with real-time feedback and detailed statis
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xlegacy9)
 
 ---
-⭐️ From [YourGitHubUsername](https://github.com/xlegacy9)
+⭐️ From (https://github.com/xlegacy9)
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
