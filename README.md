@@ -29,7 +29,7 @@ I'm passionate about creating responsive and user-friendly web applications and 
 
 ### 🌟 Featured Projects
 
-#### Modern Typing Test Application
+#### Typing Test Application
 A responsive typing test application with real-time feedback and detailed statistics.
 - Live typing speed measurement
 - Dark/Light theme support
