@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mudasir
+# Hi there! 👋 I'm Mudasir AKA 𝙻𝚎𝚟𝚒
 
 I'm passionate about creating responsive and user-friendly web applications and websites using modern technologies and frameworks.
 
@@ -41,7 +41,7 @@ A responsive typing test application with real-time feedback and detailed statis
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xlegacy9)
 
 ---
-⭐️ From (https://github.com/xlegacy9)
+⭐️ From 𝙻𝚎𝚟𝚒 (https://github.com/xlegacy9)
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
