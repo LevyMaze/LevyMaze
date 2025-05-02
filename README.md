@@ -39,6 +39,7 @@ A responsive typing test application with real-time feedback and detailed statis
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xlegacy9)
+[![Discord](https://img.shields.io/badge/Discord-legacy__x9-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 ⭐️ From 𝙻𝚎𝚟𝚒 (https://github.com/xlegacy9)
