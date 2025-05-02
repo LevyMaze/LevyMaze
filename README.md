@@ -23,9 +23,9 @@ I'm passionate about creating responsive and user-friendly web applications and 
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=xlegacy9&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 Featured Projects
 
