@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mudasir AKA 𝙻𝚎𝚟𝚒
+# Hi there! 👋 I'm Mudasir
 
 I'm passionate about creating responsive and user-friendly web applications and websites using modern technologies and frameworks.
 
