@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Mudasir
 
+![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=red)
+
 I'm passionate about creating responsive and user-friendly web applications and websites using modern technologies and frameworks.
 
 ### 🛠Tech Stack
@@ -44,8 +46,6 @@ I'm passionate about creating responsive and user-friendly web applications and 
 
 ---
 ⭐️ From 𝙻𝚎𝚟𝚒 (https://github.com/xlegacy9)
-
-![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=red)
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
