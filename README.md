@@ -3,18 +3,31 @@
 I'm passionate about creating responsive and user-friendly web applications and websites using modern technologies and frameworks.
 
 ### 🛠️ Tech Stack
-
-#### Languages
+#### Technologies
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
+    <!-- JSON Badge -->
+    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+        <rect width="40" height="40" rx="5" fill="#000000"/>
+        <text x="20" y="25" font-family="Arial" font-size="12" fill="#fff" text-anchor="middle">
+            {"}"}
+        </text>
+    </svg>
+
+
+    <svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+        <rect width="40" height="40" rx="5" fill="#F66A1F"/>
+        <text x="20" y="25" font-family="Arial" font-size="12" fill="#fff" text-anchor="middle">
+            XML
+        </text>
+    </svg>
+
+    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
-
 #### Frameworks & Libraries
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
