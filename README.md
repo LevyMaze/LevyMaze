@@ -31,21 +31,12 @@ I'm passionate about creating responsive and user-friendly web applications and 
 ### Detailed Stats
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=xlegacy9&show_icons=true&theme=radical&count_private=true)
 
-### Recent Activity
-<!--START_SECTION:activity-->
-1. Created repository [XLegacy9/TypingTest](https://github.com/XLegacy9/TypingTest)
-2. Pushed commits to [XLegacy9/TypingTest](https://github.com/XLegacy9/TypingTest)
-<!--END_SECTION:activity-->
-
 ### Pinned Repositories
 [![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=TypingTest&theme=radical)](https://github.com/XLegacy9/TypingTest)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=blueviolet)
-
 ### Contribution Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true)
-### eatured Projects
 
 ### Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xlegacy9)
@@ -53,6 +44,8 @@ I'm passionate about creating responsive and user-friendly web applications and 
 
 ---
 ⭐️ From 𝙻𝚎𝚟𝚒 (https://github.com/xlegacy9)
+
+![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=red)
 
 <!---
 XLegacy9/XLegacy9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
