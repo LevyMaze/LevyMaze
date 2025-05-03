@@ -26,7 +26,38 @@ I'm passionate about creating responsive and user-friendly web applications and 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical)
+### 📈 GitHub Activity
+![Mudasir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xlegacy9&theme=radical)
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xlegacy9&theme=radical&no-frame=true&row=1)
+
+### 📊 Detailed Stats
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=xlegacy9&show_icons=true&theme=radical&count_private=true)
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🎯 Created repository [XLegacy9/TypingTest](https://github.com/XLegacy9/TypingTest)
+2. 💻 Pushed commits to [XLegacy9/repository-name](https://github.com/XLegacy9/repository-name)
+<!--END_SECTION:activity-->
+
+### 🕒 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 41 mins  ████████████░░░░░░  58.47%
+HTML         8 hrs 12 mins   ███████░░░░░░░░░░░  30.63%
+CSS          2 hrs 55 mins   ██░░░░░░░░░░░░░░░░  10.90%
+```
+<!--END_SECTION:waka-->
+
+### 📌 Pinned Repositories
+[![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=TypingTest&theme=radical)](https://github.com/XLegacy9/TypingTest)
+
+### 💻 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=blueviolet)
+
+### 🌟 Contribution Stats
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true)
 ### 🌟 Featured Projects
 
 #### Typing Test Application
