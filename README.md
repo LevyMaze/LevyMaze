@@ -25,7 +25,7 @@ I'm passionate about creating responsive and user-friendly web applications and 
 ### GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 GitHub Activity Graph
-[![Mudasir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xlegacy9&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mudasir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xlegacy9&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Detailed Stats
