@@ -39,8 +39,6 @@ I'm passionate about creating responsive and user-friendly web applications and 
 [![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=TypingTest&theme=radical)](https://github.com/XLegacy9/TypingTest)
 
 
-[![JS-Signup2.1](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=JS-Signup2.1&theme=radical)](https://github.com/XLegacy9/JS-Signup2.1)
-
 
 ### Contribution Stats
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true)
