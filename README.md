@@ -4,6 +4,7 @@ I'm passionate about creating responsive and user-friendly web applications and 
 
 <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" width="200" />
 ### 🛠Tech Stack
+
 #### Technologies
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
