@@ -60,14 +60,6 @@ CSS          2 hrs 55 mins   ██░░░░░░░░░░░░░░░
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true)
 ### 🌟 Featured Projects
 
-#### Typing Test Application
-A responsive typing test application with real-time feedback and detailed statistics.
-- Live typing speed measurement
-- Dark/Light theme support
-- Interactive guided tour
-- Performance tracking
-[View Project](https://xlegacy9.github.io/TypingTest/)
-
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](xlegacy9)
 [![Discord](https://img.shields.io/badge/Discord-legacy__x9-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
