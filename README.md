@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Mudasir
 
-![Profile Views](https://komarev.com/ghpvc/?username=xlegacy9&color=red)
-
+<img src="https://komarev.com/ghpvc/?username=xlegacy9&color=red&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" width="200" />
 I'm passionate about creating responsive and user-friendly web applications and websites using modern technologies and frameworks.
 
 ### 🛠Tech Stack
