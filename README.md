@@ -32,6 +32,7 @@ passionate about creating secure, responsive, and user-friendly web applications
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
+
 ## GitHub Analytics
 
 <!-- Most Used Languages - includes all languages -->
@@ -53,6 +54,7 @@ passionate about creating secure, responsive, and user-friendly web applications
 ## Featured Projects
 
 [![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=PHP-form&theme=radical)](https://github.com/xlegacy9/PHP-form)
+
 
 [![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=TypingTest&theme=radical)](https://github.com/XLegacy9/TypingTest)
 
