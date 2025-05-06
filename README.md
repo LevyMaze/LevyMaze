@@ -42,7 +42,7 @@ passionate about creating secure, responsive, and user-friendly web applications
 
 <p align="center">
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&theme=radical&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=xlegacy9&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />      
