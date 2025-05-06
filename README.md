@@ -32,17 +32,23 @@ passionate about creating secure, responsive, and user-friendly web applications
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
+## 📊 GitHub Analytics
 
-## GitHub Stats
+<!-- Most Used Languages - includes all languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlegacy9&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<!-- GitHub Activity Graph -->
+[![Mudasir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xlegacy9&custom_title=Mudasir's%20Contribution%20Graph&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xlegacy9&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xlegacy9&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ## Featured Projects
 
 [![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=PHP-form&theme=radical)](https://github.com/xlegacy9/PHP-form)
