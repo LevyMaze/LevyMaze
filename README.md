@@ -55,7 +55,7 @@ passionate about creating secure, responsive, and user-friendly web applications
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://discord.com">
-        <img src="https://img.shields.io/badge/Discord-legacy__x9-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        <img src="https://img.shields.io/badge/Discord-xlegacy9-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </p>
 
