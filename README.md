@@ -39,9 +39,9 @@ passionate about creating secure, responsive, and user-friendly web applications
 <p align="center">
  
 
-[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=PHP-form&theme=radical)](https://github.com/xlegacy9/PHP-form)
+[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LeviHimslef/CloudPeak)
 
-[![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=xlegacy9&repo=TypingTest&theme=radical)](https://github.com/XLegacy9/TypingTest)
+[![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=LevviHimself&repo=TypeTide&theme=radical)](https://github.com/LeviHimself/TypeTide)
 
 ## Connect with Me
 <p align="left">
