@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Mudasir
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
 
