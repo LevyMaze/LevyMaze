@@ -1,11 +1,9 @@
 # Hi there! 👋 I'm Mudasir
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
 
-## About Me
-passionate about creating secure, responsive, and user-friendly web applications and websites. Focused on web technologies and clean code practices.
+Creating Web apps and websites 
 
 ## Current Tech Stack
 
@@ -45,6 +43,3 @@ passionate about creating secure, responsive, and user-friendly web applications
         <img src="https://img.shields.io/badge/Discord-levi_himself-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </p>
-
----
-⭐️ From [𝙻𝚎𝚟𝚒](https://github.com/LeviHimself)
