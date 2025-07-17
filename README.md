@@ -32,20 +32,13 @@ passionate about creating secure, responsive, and user-friendly web applications
     <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
 
-## GitHub Analytics
-
-<!-- GitHub Stats Card -->
-
-<p align="center">
- 
+## Currently working on 
 
 [![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LeviHimslef/CloudPeak)
 
-[![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=LevviHimself&repo=TypeTide&theme=radical)](https://github.com/LeviHimself/TypeTide)
-
 ## Connect with Me
 <p align="left">
-    <a href="https://github.com/xlegacy9">
+    <a href="https://github.com/LeviHimself">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://discord.com">
@@ -54,4 +47,4 @@ passionate about creating secure, responsive, and user-friendly web applications
 </p>
 
 ---
-⭐️ From [𝙻𝚎𝚟𝚒](https://github.com/xlegacy9)
+⭐️ From [𝙻𝚎𝚟𝚒](https://github.com/LeviHimself)
