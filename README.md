@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Mudasir
+### Hi there! 👋 I'm Mudasir
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
 
 Creating Web apps and websites 
 
-## Current Tech Stack
+# Current Tech Stack
 
 ### Languages & Databases
 <p align="left">
@@ -30,11 +30,11 @@ Creating Web apps and websites
     <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
 
-## Currently working on 
+### Currently working on 
 
 [![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LeviHimslef/CloudPeak)
 
-## Connect with Me
+### Connect with Me
 <p align="left">
     <a href="https://github.com/LeviHimself">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
