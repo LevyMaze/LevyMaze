@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
 
-Creating Web apps and websites 
+
 
 # Current Tech Stack
 
