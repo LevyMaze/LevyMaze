@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Mudasir
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=xlegacy9&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
+  <img src="https://komarev.com/ghpvc/?username=LevyMaze&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Count" />
 </div>
 
 
@@ -32,11 +32,11 @@
 
 ### Currently working on 
 
-[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LevyMaze/CloudPeak)
+[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LevyMaze&repo=CloudPeak&theme=radical)](https://github.com/LevyMaze/CloudPeak)
 
 ### Connect with Me
 <p align="left">
-    <a href="https://github.com/LeviHimself">
+    <a href="https://github.com/LevyMaze">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://discord.com">
