@@ -32,7 +32,7 @@
 
 ### Currently working on 
 
-[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LeviHimself/CloudPeak)
+[![Form Project](https://github-readme-stats.vercel.app/api/pin/?username=LeviHimself&repo=CloudPeak&theme=radical)](https://github.com/LevyMaze/CloudPeak)
 
 ### Connect with Me
 <p align="left">
@@ -40,6 +40,6 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://discord.com">
-        <img src="https://img.shields.io/badge/Discord-levi_himself-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        <img src="https://img.shields.io/badge/Discord-levyMaze-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
 </p>
